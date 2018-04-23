@@ -1,2 +1,2 @@
 # NJSGMP
-Node JS Global Mentoring
+Node JS Global Mentoring Program

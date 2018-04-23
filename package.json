@@ -1,0 +1,29 @@
+{
+  "name": "NJSGMP",
+  "version": "1.0.0",
+  "description": "Node JS Global Mentoring Program",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --exec babel-node -- app.js",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ObsidianSky/NJSGMP.git"
+  },
+  "keywords": [],
+  "author": "Vladyslav Nadtoka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ObsidianSky/NJSGMP/issues"
+  },
+  "homepage": "https://github.com/ObsidianSky/NJSGMP#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "nodemon": "^1.17.3"
+  }
+}
